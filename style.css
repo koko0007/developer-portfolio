@@ -12,7 +12,7 @@ h1{
 .orange-color{
     color: purple;
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 100px;
 }
@@ -45,4 +45,7 @@ section{
 .paragraph-two{
     padding-bottom: 15px;
     padding-right: 100px;
+}
+.x{
+    padding: 10px 50px;
 }
